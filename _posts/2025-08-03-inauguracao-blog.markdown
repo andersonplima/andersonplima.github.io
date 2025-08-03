@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bem-vindo ao meu blog!"
+title:  "Bem-vindos ao meu blog!"
 date:   2025-08-03 00:48:45 +0000
 categories: blog geral
 ---
