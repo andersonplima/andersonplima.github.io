@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Olá! Meu nome é Anderson Lima e sou programador.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Minha formação passa por :
+- Técnico em Processamento de Dados, termos arcaicos dos idos de 1998.
+- Graduado e mestre em Física Computacional focado em modelagem de epidemias com autômatos celulares.
+- Desistente do Doutorado em Física focado num modelo de Ising em rede hiperbólica.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Apesar da formação em Física, dediquei a vida profissional ao desenvolvimento de software até que fui promovido em 2015 a Gerente de Desenvolvimento da Vsoft Tecnologia, quando larguei o doutorado em Física.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Hoje sou CTO da empresa e enfrento desafios de gestão de pessoas do mundo da TI.
