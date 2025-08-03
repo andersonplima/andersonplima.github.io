@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Anderson Lima : Blog
+title: Anderson Lima
 email: info@andersonplima.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Site pessoal de Anderson Lima (eu 😊), onde compartilho conhecimento sobre tecnologia, programação e desenvolvimento web.
