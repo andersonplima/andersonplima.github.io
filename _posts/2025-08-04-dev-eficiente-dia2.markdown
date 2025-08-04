@@ -28,6 +28,7 @@ Também foi ensinado que os 5 elementos principais da aprendizagem, com base nes
 Por fim, entendemos como definir bons objetivos com base no entendimento da autoeficácia. Definir objetivos que não passam na prova de verificação do quão confiantes estamos ao tentar realizar aquele objetivo, não adianta muita coisa. Claro que é melhor do que nenhum objetivo, mas é menos eficaz para nos fazer alcançá-lo.
 
 > Um exemplo de objetivo mal definido: Quero aprender Python.
+>
 > Um objetivo melhor definido com base na autoeficácia: Quero ser capaz de implementar algoritmos simples usando listas em Python.
 
 Até o próximo dia de estudo!
