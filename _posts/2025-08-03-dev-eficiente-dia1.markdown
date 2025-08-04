@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Iniciando os estudos na Jornada Dev + Eficiente"
+title:  "Iniciando os estudos na Jornada Dev + Eficiente: Dia 1"
 date:   2025-08-03 01:42:45 +0000
 categories: estudos dev-eficiente
 ---
