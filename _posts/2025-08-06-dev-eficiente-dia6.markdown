@@ -4,7 +4,7 @@ title:  "Dev + Eficiente Dia 6: Máquina de Aprender parte 5"
 date:   2025-08-11 22:36:00 +0000
 categories: estudos dev-eficiente
 ---
-No sexto dia estudos finalizamos o elemento teoria e iniciamos o elemento prática da nossa Máquina de Aprender.
+No sexto dia de estudos finalizamos o elemento teoria e iniciamos o elemento prática da nossa Máquina de Aprender.
 
 # Teoria
 
@@ -20,6 +20,6 @@ Iniciando as aulas sobre prática, foram mostrados os tipos de prática:
 - Prática prioritária, que diz respeito ao objetivo principal de aprendizagem.
 - Prática de suporte ou acessória, que está aquém ou além do objetivo principal de aprendizagem, ou serve de apoio para a prática prioritária.
 
-Me deixa explicar melhor a prática de suporte. Ela pode ser a prática sobre um conceito que é necessário para o objetivo principal, mas não é suficiente, como quando alguém pratica condicionais e loops em C# como apoio para atingir o objetivo de exemplo que dei no [dia 3]{% post_url 2025-08-06-dev-eficiente-dia3 %}. Ela também pode estar além do objetivo principal, como quando um atleta de salto em altura treina alguns saltos de 1,8 metros para que fique confortável com o objetivo de saltar 1,6 metros.
+Me deixa explicar melhor a prática de suporte. Ela pode ser a prática sobre um conceito que é necessário para o objetivo principal, mas não é suficiente, como quando alguém pratica condicionais e loops em C# como apoio para atingir o objetivo de exemplo que dei no [dia 3]({% post_url 2025-08-06-dev-eficiente-dia3 %}). Ela também pode estar além do objetivo principal, como quando um atleta de salto em altura treina alguns saltos de 1,8 metros para que fique confortável com o objetivo de saltar 1,6 metros.
 
 Por fim, foi dada uma aula sobre variabilidade e progressão na prática prioritária, de forma que o(a) estudante aproxime-se progressivamente do objetivo a ser atingido. Por exemplo, se a pessoa quer resolver qualquer problema de algoritmos com listas em até 10 minutos, uma prática variável e progressiva pode ser resolver muitos exercícios variados do assunto em ordem de complexidade e com tempo cada vez mais restrito.
