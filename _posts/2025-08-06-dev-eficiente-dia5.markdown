@@ -34,13 +34,17 @@ O mito também carrega uma carga preconceituosa ou limitante ao classificar pess
 
 [^2]: [Busca no Google Scholar por "Learning styles myth"](https://scholar.google.com/scholar?q=learning+styles+myth)
 
-# Teoria da carga cognitiva
+# Teoria da carga cognitiva {#carga-cognitiva}
 
 A teoria da carga cognitiva de John Sweller[^3] trata do esforço usado na memória de trabalho. A memória de trabalho é um termo central na Neurociência que define a memória temporária utilizada no raciocínio, tomada de decisão e comportamento. Como a memória de trabalho é limitada em capacidade e duração, ao aprender, a pessoa deve minimizar a carga cognitiva, seja ela intrínseca, relativa a complexidade do conteúdo, ou extrínseca, relativa ao ambiente de aprendizado.
 
 Então, se uma pessoa está estudando algo muito complexo, ela deve evitar fazê-lo em lugares barulhentos ou com interrupções constantes. Da mesma forma, se algo é mais simples, é mais fácil estudar com uma música de fundo.
 
+<br />
+
 ---
+
+<br />
 
 Essa parte sobre bases teóricas tem muito conteúdo, mas está muito interessante. Despertou minha curiosidade para consultar outras fontes para compor meu conhecimento e conseguir explicar melhor aqui nessa postagem, mesmo que de forma resumida. 
 
