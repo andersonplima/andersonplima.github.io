@@ -16,7 +16,7 @@ Da mesma forma que foi montada uma matriz para seleção de boas teorias, hoje v
 
 Também foi explicado que a prática espaçada tem eficiência comprovada por artigos científicos. Eles mostram que é mais eficiente estudar ou praticar um pouco a cada dia que em um volume grande no mesmo dia. Essa aula corrobora o que eu já tinha visto no curso *Aprendendo a Aprender* também citado no post do segundo dia. A propósito, Barbara Oakley, idealizadora e instrutura do curso, sempre é procurada para falar sobre o assunto. Essa semana, um vídeo da BBC News Brasil[^1] sobre técnicas de aprendizagem a trouxe como referência da área.
 
-[^1]: 8 técnicas da ciência pra aprender algo novo ou se preparar para exames. [<i class="fa-brands fa-youtube"></i>](https://www.youtube.com/watch?v=KzahejCdXys)
+[^1]: [8 técnicas da ciência pra aprender algo novo ou se preparar para exames](https://www.youtube.com/watch?v=KzahejCdXys).
 
 # Feedback
 
