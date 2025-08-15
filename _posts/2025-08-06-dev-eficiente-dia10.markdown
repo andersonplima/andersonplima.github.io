@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dev + Eficiente: Máquina de Aprender parte final"
-date:   2025-08-14 23:25:00 +0000
+date:   2025-08-15 21:30:00 +0000
 categories: estudos dev-eficiente
 ---
 Hoje, na parte final do curso *Máquina de Aprender*, o professor Alberto apresentou os aceleradores do aprendizado que interpretei como *ter disciplina ao estudar*.
