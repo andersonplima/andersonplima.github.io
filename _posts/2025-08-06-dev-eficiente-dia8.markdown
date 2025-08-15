@@ -6,7 +6,7 @@ categories: estudos dev-eficiente
 ---
 # Teoria dos esquemas
 
-Nas primeiras aulas do sétimo dia de curso, fui apresentado ao termo _esquema_ e *teoria dos esquemas*. Esquemas são as formas com que nós organizamos as informações mentalmente, afetando a carga cognitiva aplicada à nossa memória de trabalho. A teoria dos esquemas diz que o aprendizado muda os esquemas que representam informações pré-concebidas, diminuindo assim a carga cognitiva.
+Nas primeiras aulas do oitavo dia de curso, fui apresentado ao termo _esquema_ e *teoria dos esquemas*. Esquemas são as formas com que nós organizamos as informações mentalmente, afetando a carga cognitiva aplicada à nossa memória de trabalho. A teoria dos esquemas diz que o aprendizado muda os esquemas que representam informações pré-concebidas, diminuindo assim a carga cognitiva.
 
 Antes de dar um exemplo, é importante avisar que não se confunda _teoria dos esquemas_ com _terapia dos esquemas_ (método psicoterapêutico que relaciona comportamentos atuais com esquemas formados na infância). A teoria dos esquemas foi apresentada em 1977 pelo psicólogo da educação Richard C. Anderson na conferência [_Schooling and the Acquisition of Knowledge_](https://www.taylorfrancis.com/books/edit/10.4324/9781315271644/schooling-acquisition-knowledge-richard-anderson-rand-spiro-william-montague?refId=da6c13e3-107e-410b-9e64-e28392c030a0&context=ubx).
 
