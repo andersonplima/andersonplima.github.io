@@ -18,10 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Anderson Lima
+title: Blog de Anderson Lima
+tagline: Blog de Anderson Lima primariamente sobre tecnologia.
+logo: /assets/images/logo.jpeg
 email: info@andersonplima.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Site pessoal de Anderson Lima (eu 😊), onde compartilho conhecimento sobre tecnologia, programação e desenvolvimento web.
+  Blog de Anderson Lima (eu 😊), onde compartilho conhecimento sobre tecnologia, programação e desenvolvimento web.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.andersonplima.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
