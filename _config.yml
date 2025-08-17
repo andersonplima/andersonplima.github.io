@@ -34,6 +34,8 @@ header_pages:
   - about.markdown
 feed:
   posts_limit: 20
+  icon: /assets/images/logo.jpeg
+  logo: /assets/images/logo.jpeg
 
 # Build settings
 theme: minima
