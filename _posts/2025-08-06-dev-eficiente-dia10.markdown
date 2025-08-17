@@ -2,6 +2,7 @@
 layout: post
 title:  "Dev + Eficiente: Máquina de Aprender parte final"
 date:   2025-08-15 21:30:00 +0000
+image: /assets/images/dia10-blog-cover.jpg
 categories: estudos dev-eficiente
 ---
 Hoje, na parte final do curso *Máquina de Aprender*, o professor Alberto apresentou os aceleradores do aprendizado que interpretei como *ter disciplina ao estudar*.
@@ -18,4 +19,4 @@ Chegamos ao fim do primeiro curso dentro da plataforma Dev + Eficiente com o sen
 
 [^1]: [Dev + Eficiente Dia 9: Máquina de Aprender parte 8]({% post_url 2025-08-06-dev-eficiente-dia9 %})
 [^2]: [Aprendendo a aprender: ferramentas mentais poderosas para ajudá-lo a dominar assuntos difíceis (em Português)](https://www.coursera.org/learn/aprender)
-[^3]: [A Mind For Number na Amazon](https://www.amazon.com.br/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X). O título desse livro tem a ver com uma experiência pessoal da autora, por ser alguém que tinha dificudade de aprender matemática e teve que investir em métodos de aprendizado para suprimir essa dificuldade. Entretanto, os métodos podem ser aplicados para o aprendizado de qualquer coisa, da mesma forma que esse curso do Dev + Eficiente.
+[^3]: [A Mind For Numbers na Amazon](https://www.amazon.com.br/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X). O título desse livro tem a ver com uma experiência pessoal da autora, por ser alguém que tinha dificudade de aprender matemática e teve que investir em métodos de aprendizado para suprimir essa dificuldade. Entretanto, os métodos podem ser aplicados para o aprendizado de qualquer coisa, da mesma forma que esse curso do Dev + Eficiente.

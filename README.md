@@ -1,2 +1,2 @@
 # andersonplima.github.io
-Site pessoal
+Blog pessoal de Anderson Lima, desenvolvedor de software e entusiasta de tecnologia.

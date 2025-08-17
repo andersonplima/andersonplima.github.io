@@ -28,12 +28,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.andersonplima.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  andersonplima
+
 timezone: 'America/Recife'
+header_pages:
+  - about.markdown
+feed:
+  posts_limit: 20
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

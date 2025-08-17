@@ -2,6 +2,7 @@
 layout: post
 title:  "Dev + Eficiente Dia 7: Máquina de Aprender parte 6"
 date:   2025-08-13 00:05:00 +0000
+image: /assets/images/dia7-blog-cover.jpg
 categories: estudos dev-eficiente
 ---
 Quando iniciei o curso da Máquina de Aprender, no [segundo dia]({% post_url 2025-08-04-dev-eficiente-dia2 %}), eu contei para vocês que os elementos principais de aprendizagem eram a definição de objetivo e expectativa, teoria, prática deliberada e feedback constante. Hoje, no sétimo dia, terminei as aulas sobre os dois últimos elementos.

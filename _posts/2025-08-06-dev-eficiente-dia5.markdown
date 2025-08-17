@@ -2,6 +2,7 @@
 layout: post
 title:  "Dev + Eficiente Dia 5: Máquina de Aprender parte 4"
 date:   2025-08-08 22:28:00 +0000
+image: /assets/images/dia5-blog-cover.jpg
 categories: estudos dev-eficiente
 ---
 Continuando no quinto dia, as aulas foram centradas na seleção de conteúdo de referência para compor as bases teóricas do programa de estudos. Como houve aulas com três temas diferentes, vou separar em seções para facilitar a leitura.
