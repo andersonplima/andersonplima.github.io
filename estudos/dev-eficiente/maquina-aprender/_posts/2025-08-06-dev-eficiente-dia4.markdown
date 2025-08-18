@@ -3,7 +3,6 @@ layout: post
 title:  "Dev + Eficiente Dia 4: Máquina de Aprender parte 3"
 date:   2025-08-07 22:53:00 +0000
 image: /assets/images/dia4-blog-cover.jpg
-categories: estudos dev-eficiente
 ---
 Hoje, quarto dia de estudos, as aulas foram um pouco mais longas e focadas na explicação um pouco mais detalhada, através de exemplos, do segundo e terceiro elementos principais da aprendizagem da *Máquina de Aprender*. Se você não lembra, são eles o **alinhamento de expectativa** e o **entendimento das bases teóricas**.
 
@@ -13,4 +12,4 @@ Por outro lado, o entendimento das bases teóricas é necessário para a prátic
 
 Amanhã continuarei as próximas aulas sobre teoria. Até lá!
 
-[^1]: Ver o texto sobre a [segunda parte]({% post_url 2025-08-06-dev-eficiente-dia3 %}) da Máquina de Aprender.
+[^1]: Ver o texto sobre a [segunda parte]({% post_url /estudos/dev-eficiente/maquina-aprender/2025-08-06-dev-eficiente-dia3 %}) da Máquina de Aprender.

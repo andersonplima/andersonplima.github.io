@@ -3,7 +3,6 @@ layout: post
 title:  "Dev + Eficiente Dia 9: Máquina de Aprender parte 8"
 date:   2025-08-14 23:25:00 +0000
 image: /assets/images/dia9-blog-cover.jpg
-categories: estudos dev-eficiente
 ---
 Chegamos no nono dia de curso para finalizar a construção de planos de aprendizagem com a montagem de um plano para um assunto que não possui uma fonte da verdade clara. Nesse caso, escolha uma! Não é exatamente isso, mas você deve procurar uma pessoa de referência e consultá-la. De preferência uma pessoa de sua confiança ou um(a) professor(a) contratado(a). Essa pessoa te dará o ponto de partida para entender os aspectos gerais do tema de forma que você consiga escrever seu objetivo de aprendizagem e partir daí montar o plano completo.
 
