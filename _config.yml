@@ -36,6 +36,7 @@ feed:
   posts_limit: 20
   icon: /assets/images/logo.jpeg
   logo: /assets/images/logo.jpeg
+google_analytics: G-HT28ZQY8HH
 
 # Build settings
 theme: minima
