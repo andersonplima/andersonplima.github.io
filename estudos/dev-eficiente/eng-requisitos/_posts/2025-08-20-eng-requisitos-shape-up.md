@@ -55,7 +55,7 @@ Os passos para a modelagem são:
 
 Nesse passo, é definido o apetite, que em geral consegue ter dois tamanhos: pequeno (factível em 1-2 semanas) ou grande (factível em um ciclo de 6 semanas). O apetite exprime a vontade de aplicar esforço naquela funcionalidade.
 
-Uma vez definido o apetite, a funcionalidade é melhor entendida. Nessa hora é muito importante o acesso ao solicitante. Um exemplo interessante que o livro dá é o de um cliente que pediu um sistema complexo de permissões, para que a pessoa não pudesse arquivar facilmente um arquivo no sistema. Ao entrevistar o cliente, o time de modelagem entendeu que um usuário arquivou um arquivo, achando que esse arquivamento só seria notado por ele, quando na verdade o sistema arquivava para todos os usuários. A proposta de solução aprovada foi mostrar um aviso ao usuário explicando o cenário e deixando a decisão a cargo dele. Com isso uma solução que poderia ter ocupado um ciclo inteiro, foi resolvido em um dia.
+Uma vez definido o apetite, a funcionalidade é melhor entendida. Nessa hora é muito importante o acesso ao solicitante. Um exemplo interessante que o livro dá é o de um cliente que pediu um sistema complexo de permissões, para que a pessoa não pudesse arquivar facilmente um arquivo no sistema. Ao entrevistar o cliente, o time de modelagem entendeu que um usuário arquivou um arquivo, achando que esse arquivamento só seria notado por ele, quando na verdade o sistema arquivava para todos os usuários. A proposta de solução aprovada foi mostrar um aviso ao usuário explicando o cenário e deixando a decisão a cargo dele. Com isso uma solução que poderia ter ocupado um ciclo inteiro, foi construída em um dia.
 
 <br />
 
