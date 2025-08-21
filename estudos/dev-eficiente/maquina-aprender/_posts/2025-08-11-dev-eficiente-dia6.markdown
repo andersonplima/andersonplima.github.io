@@ -12,7 +12,7 @@ As aulas sobre teoria foram mais simples, apenas focadas em exemplos positivos e
 - Não inicie um conteúdo referenciado antes de concluir pelo menos uma vez o conteúdo atual. Isso vale para links em posts de blog, referências de artigos, citações em vídeos, etc. Isso aumenta a carga cognitiva na memória de trabalho, o que vai atrapalhar o entendimento do conteúdo.
 - Tenha momentos de reflexão e/ou faça resumos dos conteúdos consumidos. Quanto mais lembramos do que estudamos, mais a informação adquirida é fixada na memória de longo prazo.
 - Se puder ter acesso a um professor(a), contrate um(a), ele(a) será uma boa ajuda com referências adequadas para sua aprendizagem, afinal, ele(a) já passou por isso.
-- Por último foi mostrado um exemplo de como uma teoria pouco confiável pode ser um problema. Foi mostrado um artigo de blog que trazia definições bem diferentes dos tipos de carga cognitiva, a despeito das de [John Sweller]({% post_url /estudos/dev-eficiente/maquina-aprender/2025-08-06-dev-eficiente-dia5 %}#carga-cognitiva).
+- Por último foi mostrado um exemplo de como uma teoria pouco confiável pode ser um problema. Foi mostrado um artigo de blog que trazia definições bem diferentes dos tipos de carga cognitiva, a despeito das de [John Sweller]({% post_url /estudos/dev-eficiente/maquina-aprender/2025-08-08-dev-eficiente-dia5 %}#carga-cognitiva).
 
 # Prática
 

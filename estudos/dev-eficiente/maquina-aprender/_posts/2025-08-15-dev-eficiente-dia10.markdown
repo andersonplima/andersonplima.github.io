@@ -16,6 +16,6 @@ Portanto, esses aceleradores são características de ter disciplina ao estudar.
 
 Chegamos ao fim do primeiro curso dentro da plataforma Dev + Eficiente com o sentimento de dever cumprido e complementação do que eu tinha conhecido no curso Aprendendo a Aprender[^2] e no livro A Mind For Numbers, da Barbara Oakley[^3]. Espero que tenham gostado de acompanhar minha jornada e até semana que vem, no próximo curso!
 
-[^1]: [Dev + Eficiente Dia 9: Máquina de Aprender parte 8]({% post_url /estudos/dev-eficiente/maquina-aprender/2025-08-06-dev-eficiente-dia9 %})
+[^1]: [Dev + Eficiente Dia 9: Máquina de Aprender parte 8]({% post_url /estudos/dev-eficiente/maquina-aprender/2025-08-14-dev-eficiente-dia9 %})
 [^2]: [Aprendendo a aprender: ferramentas mentais poderosas para ajudá-lo a dominar assuntos difíceis (em Português)](https://www.coursera.org/learn/aprender)
-[^3]: [A Mind For Numbers na Amazon](https://www.amazon.com.br/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X). O título desse livro tem a ver com uma experiência pessoal da autora, por ser alguém que tinha dificudade de aprender matemática e teve que investir em métodos de aprendizado para suprimir essa dificuldade. Entretanto, os métodos podem ser aplicados para o aprendizado de qualquer coisa, da mesma forma que esse curso do Dev + Eficiente.
+[^3]: [A Mind For Numbers na Amazon](https://www.amazon.com.br/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X). O título desse livro tem a ver com uma experiência pessoal da autora, por ser alguém que tinha dificuldade de aprender matemática e teve que investir em métodos de aprendizado para suprimir essa dificuldade. Entretanto, os métodos podem ser aplicados para o aprendizado de qualquer coisa, da mesma forma que esse curso do Dev + Eficiente.
