@@ -20,8 +20,7 @@ As principais ideias do processo são:
 - Ciclos de seis semanas
     Um tempo grande o suficiente para entregar algo relevante e pequeno o suficiente para que a equipe sinta o prazo (ver aceleradores e sabotadores nos dias 
     [9]({% post_url /estudos/dev-eficiente/maquina-aprender/2025-08-14-dev-eficiente-dia9 %}) e 
-    [10]({% post_url /estudos/dev-eficiente/maquina-aprender/2025-08-15-dev-eficiente-dia10 %}) da *Máquina de Aprender*).
-    da *Máquina de Aprender*.
+    [10]({% post_url /estudos/dev-eficiente/maquina-aprender/2025-08-15-dev-eficiente-dia10 %}) da *Máquina de Aprender*.
 - Moldar o trabalho
     Antes de ser executado, o trabalho passa por um processo em que um time sênior define os principais pontos de uma solução, no nível de abstração correto para que haja espaço para o time executor entender o que deve ser feito, mas ainda assim tenha liberdade para encontrar a melhor forma de implementar a solução.
 - Tornar os times responsáveis
