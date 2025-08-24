@@ -57,10 +57,6 @@ Nesse passo, é definido o apetite, que em geral consegue ter dois tamanhos: peq
 
 Uma vez definido o apetite, a funcionalidade é melhor entendida. Nessa hora é muito importante o acesso ao solicitante. Um exemplo interessante que o livro dá é o de um cliente que pediu um sistema complexo de permissões, para que a pessoa não pudesse arquivar facilmente um arquivo no sistema. Ao entrevistar o cliente, o time de modelagem entendeu que um usuário arquivou um arquivo, achando que esse arquivamento só seria notado por ele, quando na verdade o sistema arquivava para todos os usuários. A proposta de solução aprovada foi mostrar um aviso ao usuário explicando o cenário e deixando a decisão a cargo dele. Com isso uma solução que poderia ter ocupado um ciclo inteiro, foi construída em um dia.
 
-<br />
-
 ---
-
-<br />
 
 Amanhã continuarei a leitura da sessão *Ajustar limites* e volto por aqui para compartilhar com vocês. Até!

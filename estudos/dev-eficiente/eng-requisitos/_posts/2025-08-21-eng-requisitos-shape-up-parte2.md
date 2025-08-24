@@ -36,11 +36,7 @@ O pitch é o texto que vai ser usado para defender essa solução na fase de apo
 1. O apetite: mesmo nessa fase, podem haver discussões sobre a solução e o apetite serve para limitar o tipo de alteração que pode haver nela, ou mesmo o quanto o time está disposto a discutir. 
 1. A proposta de solução: por mais que seja óbvio, muitas vezes há pitches em que apenas o problema é descrito. Isso quer dizer que a modelagem não foi feita e não é produtivo fazer outro time investir tempo nessa atividade.
 
-<br />
-
 ---
-
-<br />
 
 Vejo nesse segundo dia de leitura do Shape Up, que há bastante aprendizado que podemos levar
 para qualquer refinamento de requisitos, independente de qual é o processo de upstream como um todo.

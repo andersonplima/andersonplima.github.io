@@ -2,7 +2,7 @@
 layout: post
 title:  "Dev + Eficiente Dia 2: Máquina de Aprender"
 date:   2025-08-04 22:05:00 +0000
-image: /assets/images/dia2-blog-cover.jpg
+image: /assets/images/estudos/dev-eficiente/maquina-aprender/dia2-blog-cover.jpg
 ---
 Seguindo o segundo dia de aprendizado no Dev + Eficiente, algumas informações foram dadas em texto contemplando:
 - Compartilhamento das experiências dos cursos para auxiliar no aprendizado;

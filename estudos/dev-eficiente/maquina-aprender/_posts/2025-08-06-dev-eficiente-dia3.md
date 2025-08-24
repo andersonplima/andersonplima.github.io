@@ -2,7 +2,7 @@
 layout: post
 title:  "Dev + Eficiente Dia 3: Máquina de Aprender parte 2"
 date:   2025-08-06 21:58:00 +0000
-image: /assets/images/dia3-blog-cover.jpg
+image: /assets/images/estudos/dev-eficiente/maquina-aprender/dia3-blog-cover.jpg
 ---
 No terceiro dia de aprendizado no Dev + Eficiente conclui a parte do curso *Máquina de Aprender* que trata de como construir bons objetivos de aprendizagem.
 

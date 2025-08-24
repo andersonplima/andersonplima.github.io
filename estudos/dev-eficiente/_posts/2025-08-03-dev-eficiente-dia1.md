@@ -2,7 +2,7 @@
 layout: post
 title:  "Iniciando os estudos na Jornada Dev + Eficiente: Dia 1"
 date:   2025-08-03 01:42:45 +0000
-image: /assets/images/dia1-blog-cover.jpg
+image: /assets/images/estudos/dev-eficiente/dia1-blog-cover.jpg
 ---
 Decidi voltar a estudar de forma estruturada sobre design de código, arquitetura e como ser um programador melhor.
 

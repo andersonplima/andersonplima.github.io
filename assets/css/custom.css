@@ -13,3 +13,7 @@
     /*round corners*/
     border-radius: 8px;
 }
+
+a {
+    font-weight: bold;
+}

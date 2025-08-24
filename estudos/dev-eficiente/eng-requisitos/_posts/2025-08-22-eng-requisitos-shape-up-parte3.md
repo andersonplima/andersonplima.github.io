@@ -29,11 +29,7 @@ Também durante o período de resfriamento, a mesa de apostas, formada na Baseca
 
 A resolução de bugs não interrompe o trabalho nas apostas durante o ciclo de execução. Além de ser feita dentro dos períodos de resfriamento, a resolução de bugs de forma exclusiva é feita uma vez por ano, num ciclo de seis semanas. Ademais, se resolver um bug vale uma aposta, também pode ser modelado e levado à mesa.
 
-<br />
-
 ---
-
-<br />
 
 Como prometido, a fase de apostas foi iniciada e na próxima semana será concluída. Bom final de semana!
 

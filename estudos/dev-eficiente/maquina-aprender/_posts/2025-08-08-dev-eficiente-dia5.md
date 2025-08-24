@@ -2,7 +2,7 @@
 layout: post
 title:  "Dev + Eficiente Dia 5: Máquina de Aprender parte 4"
 date:   2025-08-08 22:28:00 +0000
-image: /assets/images/dia5-blog-cover.jpg
+image: /assets/images/estudos/dev-eficiente/maquina-aprender/dia5-blog-cover.jpg
 ---
 Continuando no quinto dia, as aulas foram centradas na seleção de conteúdo de referência para compor as bases teóricas do programa de estudos. Como houve aulas com três temas diferentes, vou separar em seções para facilitar a leitura.
 
@@ -40,11 +40,7 @@ A teoria da carga cognitiva de John Sweller[^3] trata do esforço usado na memó
 
 Então, se uma pessoa está estudando algo muito complexo, ela deve evitar fazê-lo em lugares barulhentos ou com interrupções constantes. Da mesma forma, se algo é mais simples, é mais fácil estudar com uma música de fundo.
 
-<br />
-
 ---
-
-<br />
 
 Essa parte sobre bases teóricas tem muito conteúdo, mas está muito interessante. Despertou minha curiosidade para consultar outras fontes para compor meu conhecimento e conseguir explicar melhor aqui nessa postagem, mesmo que de forma resumida. 
 

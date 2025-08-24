@@ -2,7 +2,7 @@
 layout: post
 title:  "Dev + Eficiente Dia 6: Máquina de Aprender parte 5"
 date:   2025-08-11 22:36:00 +0000
-image: /assets/images/dia6-blog-cover.jpg
+image: /assets/images/estudos/dev-eficiente/maquina-aprender/dia6-blog-cover.jpg
 ---
 No sexto dia de estudos finalizamos o elemento teoria e iniciamos o elemento prática da nossa Máquina de Aprender.
 

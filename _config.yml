@@ -21,22 +21,32 @@
 title: Blog de Anderson Lima
 tagline: Blog de Anderson Lima primariamente sobre tecnologia.
 logo: /assets/images/logo.jpeg
-email: info@andersonplima.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Blog de Anderson Lima (eu 😊), onde compartilho conhecimento sobre tecnologia, programação e desenvolvimento web.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.andersonplima.dev" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  andersonplima
 
 timezone: 'America/Recife'
-header_pages:
-  - about.markdown
+lang: pt-BR
+minima:
+  nav_pages:
+    - about.markdown
+  social_links:
+    - title: Github
+      icon: github
+      url: "https://github.com/andersonplima"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/andersonplima"
 feed:
   posts_limit: 20
   icon: /assets/images/logo.jpeg
   logo: /assets/images/logo.jpeg
 google_analytics: G-HT28ZQY8HH
+author:
+  name: Anderson Lima
+  email: info@andersonplima.dev
+paginate: 5
 
 # Build settings
 theme: minima

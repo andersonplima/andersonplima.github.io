@@ -2,7 +2,7 @@
 layout: post
 title:  "Dev + Eficiente Dia 8: Máquina de Aprender parte 7"
 date:   2025-08-13 23:05:00 +0000
-image: /assets/images/dia8-blog-cover.jpg
+image: /assets/images/estudos/dev-eficiente/maquina-aprender/dia8-blog-cover.jpg
 ---
 # Teoria dos esquemas
 
