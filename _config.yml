@@ -30,7 +30,7 @@ timezone: 'America/Recife'
 lang: pt-BR
 minima:
   nav_pages:
-    - about.markdown
+    - about.md
   social_links:
     - title: Github
       icon: github
