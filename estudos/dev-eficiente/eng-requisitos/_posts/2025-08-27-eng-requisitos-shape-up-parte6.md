@@ -26,17 +26,17 @@ O primeiro apêndice do livro explica como implementar o método usando a ferram
 
 #### Ajuste para o seu tamanho
 
-Ao aplicar o Shape Up, algumas coisas dependem de como a empresa funciona, do time de software desenvolvido e de qual o tamanho da empresa. Nesse caso, é importante diferenciar aquilo que é crucial ao método e aquilo que pode ser adaptado. Os itens importantes são:
+Ao aplicar o Shape Up, algumas coisas dependem de como a empresa funciona, do tipo de software desenvolvido e de qual o tamanho da empresa. Nesse caso, é importante diferenciar aquilo que é crucial ao método e aquilo que pode ser adaptado. Os itens importantes são:
 - O time de execução deve trabalhar exclusivamente no projeto durante o tempo do ciclo. Nesse caso, a forma de isolamento do time pode variar, por exemplo a empresa tendo times de operação e infraestrutura para atender ao funcionamento do produto em produção. Também pode variar o tamanho do ciclo e se ele é fixo. Numa empresa muito pequena onde os fundadores ainda colocam a mão na massa, pode-se trabalhar em projetos com tamanho de ciclo diferentes. O importante é que se ajuste e se cumpra o apetite acordado.
-- É preciso trabalhar apenas em soluções modeladas. Não necessariamente é preciso ter times trabalhando de forma paralela em modelagem e execução. Numa empresa pequena, é bem possível que o mesmo time alterne entre modelagem e execução.
+- É preciso trabalhar apenas em soluções modeladas. Não necessariamente é preciso ter times trabalhando de forma paralela em modelagem e execução. Numa empresa pequena, é bem possível que o mesmo time alterne entre essas fases.
 - É preciso ter um time multidisciplinar e responsável pela entrega da solução completa. Nem sempre uma pessoa faz cada coisa dentro de um time, mas ele precisa ter todas as competências necessárias para a entrega contempladas pelas pessoas do time.
 
 #### Como começar a aplicar o Shape Up
 
-O livro indica três opções para começar a trabalhar usando esse modelo, para que o entendimento de um ou alguns dos aspectos essenciais dele, instigue o time a aplicar os outros.
+O livro indica três opções para começar a trabalhar usando esse modelo, de forma que o entendimento de um ou alguns dos aspectos essenciais dele instigue o time a aplicar os outros.
 1. Fazer um experimento de seis semanas, isolando o time para que trabalhe sem interrupções e de forma autônoma em apenas um problema modelado.
 1. Começar com a modelagem, aplicando todo o método dessa fase do Shape Up e entregando para o time trabalhar usando o método que já usa hoje, como por exemplo *Scrum*.
-1. Fixar o ciclo do time em seis semanas, mas não aplicar o processo de modelagem, evitando reuniões de planejamento (3 se o time usa scrum) e permitindo que o time acerte o passo de produção de código.
+1. Fixar o ciclo do time em seis semanas evitando reuniões de planejamento (3 se o time usa scrum) e permitindo que o time acerte o passo de produção de código.
 
 ---
 
