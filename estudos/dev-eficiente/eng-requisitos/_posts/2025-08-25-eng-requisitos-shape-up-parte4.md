@@ -5,7 +5,7 @@ date: 2025-08-25 22:24:00 +0000
 image: /assets/images/estudos/dev-eficiente/eng-requisitos/eng-requisitos-shape-up-parte4-cover.jpg
 ---
 
-Olá! Este post é continuação direta do post anterior. Se você não leu, ~~volte uma casa~~ acesse [aqui]({% post_url 2025-08-22-eng-requisitos-shape-up-parte3 %}).
+Olá! Este post é continuação direta do post anterior. Se você não leu, ~~volte uma casa~~ acesse [aqui]({% post_url /estudos/dev-eficiente/eng-requisitos/2025-08-22-eng-requisitos-shape-up-parte3 %}).
 
 Continuando a fase de apostas, o livro destaca que é importante iniciar cada ciclo com a mesa de trabalho vazia, ou seja, os times de projeto só trabalharão nos pitchs aprovados no ciclo de resfriamento precedente. O objetivo é manter o foco no que é importante e foi validado pela mesa de apostas, que lembre, é composta pelos principais stakeholders do produto.
 
