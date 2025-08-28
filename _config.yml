@@ -46,7 +46,7 @@ google_analytics: G-HT28ZQY8HH
 author:
   name: Anderson Lima
   email: info@andersonplima.dev
-paginate: 5
+paginate: 10
 
 # Build settings
 theme: minima
