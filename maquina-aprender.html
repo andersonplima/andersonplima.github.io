@@ -1,0 +1,23 @@
+---
+layout: home
+title: Máquina de Aprender
+permalink: /maquina-aprender/
+---
+<p>
+    Aqui estão os posts em ordem sobre o curso Máquina de Aprender do Dev+Eficiente.
+</p>
+
+{% assign posts = site.posts | where_exp:"item", "item.categories contains 'maquina-aprender'" | reverse %}
+{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+<ul class="post-list">
+    {% for post in posts %}
+    <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+            </a>
+        </h3>
+    </li>
+    {% endfor %}
+</ul>

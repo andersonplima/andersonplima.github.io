@@ -3,6 +3,7 @@ layout: post
 title: "Engenharia de Requisitos: Shape Up parte 3"
 date: 2025-08-22 22:05:00 +0000
 image: /assets/images/estudos/dev-eficiente/eng-requisitos/eng-requisitos-shape-up-parte3-cover.jpg
+category: shape-up
 ---
 Ontem falávamos sobre os ingredientes do pitch e paramos no terceiro, a proposta de solução. Ao apresentarmos a solução durante o pitch, podemos lançar mão de alguns artifícios como anotar elementos do rascunho com marcador, apresentar a parte existente do sistema relacionada à solução, posicionar placas de ensaio dentro do layout atual, dentre outros.
 

@@ -31,6 +31,8 @@ lang: pt-BR
 minima:
   nav_pages:
     - about.md
+    - maquina-aprender.html
+    - shape-up.html
   social_links:
     - title: Github
       icon: github

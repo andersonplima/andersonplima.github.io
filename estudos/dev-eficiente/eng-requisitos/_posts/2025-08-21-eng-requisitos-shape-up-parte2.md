@@ -3,6 +3,7 @@ layout: post
 title: "Engenharia de Requisitos: Shape Up parte 2"
 date: 2025-08-21 22:45:00 +0000
 image: /assets/images/estudos/dev-eficiente/eng-requisitos/eng-requisitos-shape-up-parte2-cover.jpg
+category: shape-up
 ---
 Continuando a leitura da definição de limites, foi mostrado um estudo de caso com a inclusão de um calendário na ferramenta de cadastro de eventos do Basecamp. Uma ferramenta de calendário completa pode ser muito complexa e levar pelo menos seis meses para uma primeira versão. Mas ao modelar a funcionalidade, entrevistando o cliente, o time viu que o problema a ser resolvido era a falta de visibilidade de espaços na agenda para marcar novos compromissos. Então a ideia desenvolvida foi um *calendário de pontos*, onde dois meses são exibidos por vez e as datas ocupadas são marcadas com pontinhos pretos. Logo, uma data livre seria facilmente identificável.
 

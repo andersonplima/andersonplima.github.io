@@ -3,6 +3,7 @@ layout: post
 title: "Engenharia de Requisitos: Shape Up parte final"
 date: 2025-08-27 23:27:00 +0000
 image: /assets/images/estudos/dev-eficiente/eng-requisitos/eng-requisitos-shape-up-parte6-cover.jpg
+category: shape-up
 ---
 Em menos de seis horas, divididas em seis dias, terminamos a leitura do livro Shape Up! Isto mostra o poder da rotina e da constância da qual falei na *Máquina de Aprender* (ver os posts de 10 dias começando [aqui]({% post_url /estudos/dev-eficiente/maquina-aprender/2025-08-04-dev-eficiente-dia2 %})).
 

@@ -3,6 +3,7 @@ layout: post
 title: "Engenharia de Requisitos: Shape Up parte 5"
 date: 2025-08-26 23:17:00 +0000
 image: /assets/images/estudos/dev-eficiente/eng-requisitos/eng-requisitos-shape-up-parte5-cover.jpg
+category: shape-up
 ---
 Hoje continuamos o capítulo sobre construção do livro Shape Up. Por favor, leia os posts anteriores em sequência para não se perder aqui.
 

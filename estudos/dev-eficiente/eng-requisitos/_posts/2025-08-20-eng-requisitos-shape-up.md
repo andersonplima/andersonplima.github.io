@@ -3,6 +3,7 @@ layout: post
 title: "Engenharia de Requisitos: Shape Up parte 1"
 date: 2025-08-20 22:51:00 +0000
 image: /assets/images/estudos/dev-eficiente/eng-requisitos/eng-requisitos-shape-up-parte1-cover.jpg
+category: shape-up
 ---
 Para aprofundar um pouco mais o que foi estudado no curso anterior, resolvi ler a sua principal referência, o [livro](https://basecamp.com/shapeup) Shape Up, de Ryan Singer. Na sequência deste post, listo os principais pontos abordados até a página 32 da versão em PDF.
 

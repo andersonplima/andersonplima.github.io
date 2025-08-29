@@ -3,6 +3,7 @@ layout: post
 title: "Engenharia de Requisitos: Shape Up parte 4"
 date: 2025-08-25 22:24:00 +0000
 image: /assets/images/estudos/dev-eficiente/eng-requisitos/eng-requisitos-shape-up-parte4-cover.jpg
+category: shape-up
 ---
 
 Olá! Este post é continuação direta do post anterior. Se você não leu, ~~volte uma casa~~ acesse [aqui]({% post_url /estudos/dev-eficiente/eng-requisitos/2025-08-22-eng-requisitos-shape-up-parte3 %}).
