@@ -7,7 +7,7 @@ image: /assets/images/estudos/dev-eficiente/eng-requisitos/eng-requisitos-parte2
 Hoje conclui o curso de *Engenharia de Requisitos para Devs* ao estudar a definição de requisitos funcionais e não funcionais, 
 além de passos práticos para o entendimento e refinamento de requisitos.
 
-# Tipos de requisitos 
+# Tipos de requisitos {#tipos-requisitos}
 
 As definições abaixo foram retiradas do [livro](https://www.amazon.com.br/Software-Engineering-Global-Ian-Sommerville/dp/1292096136) de Engenharia de Software do Ian Sommerville 
 em adaptação livre minha. Acredito serem definições bem claras e de fácil entendimento, por isso achei por bem trazê-las aqui 

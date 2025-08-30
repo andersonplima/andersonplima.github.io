@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Engenharia de Requisitos: Sommerville parte 0"
+title: "Engenharia de Requisitos: Sommerville (ainda não 😊)"
 date: 2025-08-28 23:15:00 +0000
-image: /assets/images/estudos/dev-eficiente/eng-requisitos/eng-requisitos-sommerville-parte0-cover.jpg
+image: /assets/images/estudos/dev-eficiente/eng-requisitos/eng-requisitos-sommerville-0-cover.jpg
 ---
 
 Olá!
