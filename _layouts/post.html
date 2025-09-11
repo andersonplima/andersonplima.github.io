@@ -7,6 +7,9 @@ layout: base
     {%- if page.image -%}
       <div class="cover-image" style="background-image: url('{{ page.image | relative_url }}');"></div>
     {%- endif -%}
+    {%- if page.categories and page.categories != empty -%}
+      <span class="post-breadcrumbs">{{ page.categories | join: " / "}}</span>
+    {%- endif -%}
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <div class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

@@ -17,3 +17,10 @@
 a {
     font-weight: bold;
 }
+
+.post-breadcrumbs {
+    font-size: 0.9em;
+    font-variant-caps: all-small-caps;
+    color: #555;
+    margin-bottom: 5px;
+}
